@@ -3,7 +3,7 @@
     "description": "Telegram File Renamer Bot ",
     "logo": "https://graph.org/file/f97e69d8f524048e6f908.jpg",
     "keywords": ["Rename Snow Pro Bot", "Mongo DB"],    
-    "repository": "https://github.com/ritesh-0/RenameSnowProBot",
+    "repository": "https://github.com/Conan830/RenameSnowProBot",
     "env": {
         "API_ID": {
             "description": "Your APP ID From my.telegram.org ",
